@@ -5,5 +5,5 @@
 - [CFG.tf](https://cfg.tf)
 
 ```
--vulkan -no_texture_stream -precachefontchars -freq 240 -novid -nojoy -nosteamcontroller -nohltv -particles 1  +exec itemtest.cfg
+gamemoderun %command% -vulkan -freq 240 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -no_texture_stream +exec itemtest.cfg
 ```
