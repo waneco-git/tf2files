@@ -48,7 +48,7 @@
 		}
 		"crosshair"
 		{
-			"file" "vgui/replay/thumbnails/cpma_15"
+			"file" "vgui/replay/thumbnails/seekerOL"
 			"x" "0"
 			"y" "0"
 			"width" "64"

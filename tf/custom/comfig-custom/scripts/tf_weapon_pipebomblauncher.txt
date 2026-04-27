@@ -24,9 +24,9 @@
 	"bucket" "1"
 	"bucket_position" "0"
 	"ExplosionSound" "Weapon_Grenade_Pipebomb.Explode"
-	"ExplosionEffect" "muzzle_minigun_starflash01"
-	"ExplosionPlayerEffect" "muzzle_minigun_starflash01"
-	"ExplosionWaterEffect" "muzzle_minigun_starflash01"
+	"ExplosionEffect" "electrocuted_blue_flash"
+	"ExplosionPlayerEffect" "electrocuted_blue_flash"
+	"ExplosionWaterEffect" "electrocuted_blue_flash"
 	"anim_prefix" "pipe"
 	"MuzzleFlashParticleEffect" ""
 	"SoundData"
@@ -65,7 +65,7 @@
 		}
 		"crosshair"
 		{
-			"file" "vgui/replay/thumbnails/cpma_15"
+			"file" "vgui/replay/thumbnails/seekerOL"
 			"x" "0"
 			"y" "0"
 			"width" "64"

@@ -23,9 +23,9 @@
 	"secondary_ammo" "None"
 	"bucket" "0"
 	"bucket_position" "0"
-	"ExplosionEffect" "muzzle_minigun_starflash01"
-	"ExplosionPlayerEffect" "muzzle_minigun_starflash01"
-	"ExplosionWaterEffect" "muzzle_minigun_starflash01"
+	"ExplosionEffect" "electrocuted_blue_flash"
+	"ExplosionPlayerEffect" "electrocuted_blue_flash"
+	"ExplosionWaterEffect" "electrocuted_blue_flash"
 	"ExplosionSound" "BaseExplosionEffect.Sound"
 	"anim_prefix" "gl"
 	"SoundData"
@@ -61,7 +61,7 @@
 		}
 		"crosshair"
 		{
-			"file" "vgui/replay/thumbnails/cpma_15"
+			"file" "vgui/replay/thumbnails/seekerOL"
 			"x" "0"
 			"y" "0"
 			"width" "64"
