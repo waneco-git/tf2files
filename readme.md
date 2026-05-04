@@ -5,5 +5,5 @@
 - [CFG.tf](https://cfg.tf)
 
 ```
--vulkan -freq 240 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -no_texture_stream +exec itemtest.cfg
+-dxlevel 90 *<--once* -vulkan -freq 240 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -no_texture_stream +exec itemtest.cfg
 ```
